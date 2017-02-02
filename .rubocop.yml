@@ -1,0 +1,5 @@
+NumericLiterals:
+  Enabled: false
+Metrics/LineLength:
+  Max: 10000
+
